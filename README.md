@@ -1,1 +1,1 @@
-LibGDX project for image manioulation (cropping, merging files)
+LibGDX project for image manipulation (cropping, merging files)
